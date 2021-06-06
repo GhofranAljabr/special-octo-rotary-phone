@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(153, 111, 139);
+}
+header img {
+    width: 10;
+    line-height: 10%;
+}
+header nav {
+    float: right;
+}
+header nav ul {
+    list-style: ;
+}
+header nav ul li { float: right;
+    padding: 20px;
+
+}
+main p1 {
+    color:rgb(99, 124, 8);
+    line-height: 1.5;
+    background-color: peru;
+}
+main p2 {
+    color:rgb(8, 172, 8);
+    line-height: 1.5;
+    background-color: rgb(75, 89, 165);
+}
+main p4 {
+    color:rgb(7, 128, 77);
+    line-height: 1.5;
+    background-color: peru;
+}
+main p3 {
+    color:rgb(3, 90, 3);
+    line-height: 1.5;
+    background-color: rgb(230, 122, 90);
+}
+footer {
+    text-align: left;
+    background: rgb(45, 28, 53);
+    color: #fff;
+    line-height: 50px
+  } 
